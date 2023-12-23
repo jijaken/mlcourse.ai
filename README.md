@@ -1,3 +1,4 @@
+Hello world
 <div align="center">
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/main/img/ods_stickers.jpg)
